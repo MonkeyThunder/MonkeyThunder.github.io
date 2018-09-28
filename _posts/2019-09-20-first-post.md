@@ -2,6 +2,7 @@
 title: "MathJax test"
 date: 2017-10-20 08:26:28 -0400
 categories: jekyll update
+mathjax: true
 ---
 
 In N-dimensional simplex noise, the squared kernel summation radius $r^2$ is $\frac 1 2$
